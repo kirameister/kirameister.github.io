@@ -1,14 +1,14 @@
 actors:
-  alice:
+  kirameister:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    name: kirameister
+    url: http://twitter.com/kirameister_
   bob:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
+author: kirameister
+description: 10回続けられたらタイトル考えます
 description_long: Example long description
 email: info@example.com
 exclude:
@@ -28,6 +28,6 @@ markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
-timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+timezone: Europe/Berlin
+title: 10回続けられたらタイトル考えます
+url: https://kirameister.github.io/
