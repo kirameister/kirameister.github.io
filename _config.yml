@@ -8,8 +8,8 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: kirameister
-description: 10回続けられたらタイトル考えます
-description_long: 今はまだ何も考えていないけれど (将来考えるかも分からないけれど)、とりあえず始めてみてみるポッドキャスト
+description: Ich esse und ich spreche
+description_long: どこまで続けられるか分からないけれど長くゆるくやっていけば良いと思っているポッドキャスト。
 email: info@example.com
 exclude:
   - docker
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Europe/Berlin
-title: 10回続けられたらタイトル考えます
+title: ただ食って喋る
 url: https://kirameister.github.io/
