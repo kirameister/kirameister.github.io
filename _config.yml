@@ -9,7 +9,7 @@ actors:
     url: http://sns.example.com/bob
 author: kirameister
 description: Ich esse und ich spreche
-description_long: どこまで続けられるか分からないけれど長くゆるくやっていけば良いと思っているポッドキャスト。
+description_long: どこまで続けられるか分からないけれど長くゆるくやっていけば良いと思っているポッドキャスト
 email: info@example.com
 exclude:
   - docker
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: waiting410eps
+hashtag: ichesseundichspreche
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
